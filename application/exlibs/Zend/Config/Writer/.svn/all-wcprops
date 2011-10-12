@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer
+END
+Json.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer/Json.php
+END
+Array.php
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer/Array.php
+END
+Ini.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer/Ini.php
+END
+Xml.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer/Xml.php
+END
+Yaml.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer/Yaml.php
+END
+FileAbstract.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Config/Writer/FileAbstract.php
+END

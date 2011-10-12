@@ -1,0 +1,14 @@
+Status Swap 
+1. 0 = Open    [accept] [reject]
+2. 1 = Accept  [shipped] [conversation] [reject]
+3. 2 = Reject
+4. 3 = Complete is shipped
+
+
+Status Product
+1. 1 = Open
+2. 0 = Close
+
+Type Product 
+1. 0 = Offer product
+2. 1 = Swapper product

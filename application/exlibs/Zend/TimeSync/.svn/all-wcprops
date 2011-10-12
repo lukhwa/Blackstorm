@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/TimeSync
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/TimeSync/Exception.php
+END
+Ntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/TimeSync/Ntp.php
+END
+Protocol.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/TimeSync/Protocol.php
+END
+Sntp.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/TimeSync/Sntp.php
+END

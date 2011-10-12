@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Test/PHPUnit/Db/Operation
+END
+DeleteAll.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Test/PHPUnit/Db/Operation/DeleteAll.php
+END
+Insert.php
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Test/PHPUnit/Db/Operation/Insert.php
+END
+Truncate.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Test/PHPUnit/Db/Operation/Truncate.php
+END

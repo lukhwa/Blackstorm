@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl
+END
+Shortener.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/Shortener.php
+END
+JdemCz.php
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/JdemCz.php
+END
+AbstractShortener.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/AbstractShortener.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/Exception.php
+END
+TinyUrlCom.php
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/TinyUrlCom.php
+END
+IsGd.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/IsGd.php
+END
+MetamarkNet.php
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/ShortUrl/MetamarkNet.php
+END

@@ -1,0 +1,101 @@
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js
+END
+undo.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/undo.js
+END
+codemirror.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/codemirror.js
+END
+highlight.js
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/highlight.js
+END
+util.js
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/util.js
+END
+tokenizejavascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/tokenizejavascript.js
+END
+select.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/select.js
+END
+stringstream.js
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/stringstream.js
+END
+parsecss.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/parsecss.js
+END
+mirrorframe.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/mirrorframe.js
+END
+parsehtmlmixed.js
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/parsehtmlmixed.js
+END
+parsedummy.js
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/parsedummy.js
+END
+editor.js
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/editor.js
+END
+tokenize.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/tokenize.js
+END
+parsexml.js
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/parsexml.js
+END
+parsesparql.js
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/parsesparql.js
+END
+parsejavascript.js
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/black-storm/!svn/ver/53/trunk/js/ckfinder/plugins/fileeditor/codemirror/js/parsejavascript.js
+END

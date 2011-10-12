@@ -1,0 +1,65 @@
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden
+END
+BaseUserService.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/BaseUserService.php
+END
+Credential.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/Credential.php
+END
+SendSms.php
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/SendSms.php
+END
+SmsValidation.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/SmsValidation.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/Exception.php
+END
+SecurityTokenServer.php
+K 25
+svn:wc:ra_dav:version-url
+V 105
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/SecurityTokenServer.php
+END
+LocalSearch.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/LocalSearch.php
+END
+VoiceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/VoiceCall.php
+END
+IpLocation.php
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/IpLocation.php
+END
+ConferenceCall.php
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Service/DeveloperGarden/ConferenceCall.php
+END

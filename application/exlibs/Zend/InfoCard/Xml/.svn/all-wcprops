@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml
+END
+Element.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/Element.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/Exception.php
+END
+KeyInfo.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/KeyInfo.php
+END
+EncryptedKey.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/EncryptedKey.php
+END
+Assertion.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/Assertion.php
+END
+EncryptedData.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/EncryptedData.php
+END
+Security.php
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/Security.php
+END
+SecurityTokenReference.php
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/InfoCard/Xml/SecurityTokenReference.php
+END

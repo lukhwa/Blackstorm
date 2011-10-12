@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Search/Lucene/Storage/File
+END
+Filesystem.php
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Search/Lucene/Storage/File/Filesystem.php
+END
+Memory.php
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Search/Lucene/Storage/File/Memory.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Auth/Storage
+END
+NonPersistent.php
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Auth/Storage/NonPersistent.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Auth/Storage/Exception.php
+END
+Interface.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Auth/Storage/Interface.php
+END
+Session.php
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Auth/Storage/Session.php
+END

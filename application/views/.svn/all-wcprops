@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/black-storm/!svn/ver/177/trunk/application/views
+END
+exchange.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/black-storm/!svn/ver/164/trunk/application/views/exchange.tpl
+END
+editUser.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/black-storm/!svn/ver/132/trunk/application/views/editUser.tpl
+END
+mywe2share.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/black-storm/!svn/ver/176/trunk/application/views/mywe2share.tpl
+END
+signin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/black-storm/!svn/ver/137/trunk/application/views/signin.tpl
+END
+home.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/svn/black-storm/!svn/ver/29/trunk/application/views/home.tpl
+END
+admin.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/black-storm/!svn/ver/86/trunk/application/views/admin.tpl
+END
+createProductSuccess.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/black-storm/!svn/ver/95/trunk/application/views/createProductSuccess.tpl
+END
+yourwe2share.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/black-storm/!svn/ver/176/trunk/application/views/yourwe2share.tpl
+END
+createNews.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/black-storm/!svn/ver/99/trunk/application/views/createNews.tpl
+END
+createProduct.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/black-storm/!svn/ver/164/trunk/application/views/createProduct.tpl
+END
+signup.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/black-storm/!svn/ver/147/trunk/application/views/signup.tpl
+END
+ratingHistory.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/black-storm/!svn/ver/176/trunk/application/views/ratingHistory.tpl
+END
+ratings.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/black-storm/!svn/ver/176/trunk/application/views/ratings.tpl
+END
+messages.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/black-storm/!svn/ver/164/trunk/application/views/messages.tpl
+END
+index.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/black-storm/!svn/ver/160/trunk/application/views/index.tpl
+END
+index_old.html
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/black-storm/!svn/ver/38/trunk/application/views/index_old.html
+END
+productView.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/black-storm/!svn/ver/177/trunk/application/views/productView.tpl
+END
+news.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/black-storm/!svn/ver/120/trunk/application/views/news.tpl
+END
+layout.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/svn/black-storm/!svn/ver/172/trunk/application/views/layout.tpl
+END
+showProductDesc.tpl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/black-storm/!svn/ver/173/trunk/application/views/showProductDesc.tpl
+END

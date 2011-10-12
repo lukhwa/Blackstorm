@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth
+END
+Consumer.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth/Consumer.php
+END
+Client.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth/Client.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth/Exception.php
+END
+Http.php
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth/Http.php
+END
+Token.php
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth/Token.php
+END
+Config.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Oauth/Config.php
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Cloud/QueueService/Adapter
+END
+WindowsAzure.php
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Cloud/QueueService/Adapter/WindowsAzure.php
+END
+AbstractAdapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Cloud/QueueService/Adapter/AbstractAdapter.php
+END
+ZendQueue.php
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Cloud/QueueService/Adapter/ZendQueue.php
+END
+Sqs.php
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Cloud/QueueService/Adapter/Sqs.php
+END

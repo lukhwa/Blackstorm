@@ -1,0 +1,20 @@
+		$this->load->helper('form');
+		$newProjectForm = 	form_open('project/add', array('class' => 'npform')).
+							form_fieldset().
+							form_label('Project Name :', 'projectName', array('class' => 'flabel')).
+							form_input(array('name' => 'projectName', 'class' => 'projectNewF')).
+							form_fieldset_close().
+							form_fieldset().
+							form_label('Owner Name :', 'projectOwner', array('class' => 'flabel')).
+							form_input(array('name' => 'projectOwner', 'class' => 'projectNewF')).
+							form_fieldset_close().
+							form_fieldset().
+							form_label('Select Workflow :', 'projectWF', array('class' => 'flabel')).
+							form_dropdown('workflow', $workflows, '', 'class="projectNewF"').
+							form_fieldset_close().							
+							form_submit('create', 'Create').
+							form_close();
+	
+		$this->cismarty->assign('page_title', 'Start a new project');
+		$this->cismarty->assign('newProjectForm', $newProjectForm);
+		$this->cismarty->display('newproject.tpl');

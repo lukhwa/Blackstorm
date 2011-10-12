@@ -1,0 +1,19 @@
+K 10
+svn:ignore
+V 906
+09e7e0e5f3444b88b69a03954fb88a1f873e1f71.file.SearchResult.tpl.php
+0cdc936698a00c16b18b66ad55d4f80797ef6425.file.createProductSuccess.tpl.php
+2c7a0974809125b85f3a2f7b67f8a548df3bf385.file.home.tpl.php
+362c2aba28b903456d185ab556019218d88a24bd.file.index.tpl.php
+3d7ba59e0e838ec7600a573d9ddcc50dc23d5a3b.file.createNews.tpl.php
+57425d6e45cf66a12cbca58225a2699e5af94235.file.productCatalog.tpl.php
+5fd5128ef92f0967ee2c4486be46ff23e535a480.file.signin.tpl.php
+872a75c893b107db2bbb17810e0cc12d6f0e135c.file.productView.tpl.php
+9cb0be3f03873227c865f1ecd2d6e16307606b38.file.searchResult.tpl.php
+abf4a1af58de3e4d0bac63cc21a06876f8bf634a.file.signup.tpl.php
+b76ee93563bcfda1fd62bce97ac3adeabe0d130b.file.some.tpl.php
+e0878fb2c9ad583e4bfc9759a0a6eb8defbb8fb0.file.showProductDesc.tpl.php
+fbee35915b136e13d85a1906bffdab6b98a34b1d.file.createProduct.tpl.php
+fd5e9c63e90c13dad3cfcadbe93840d234a14b60.file.news.tpl.php
+
+END

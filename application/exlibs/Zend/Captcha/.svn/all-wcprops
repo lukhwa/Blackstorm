@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha
+END
+Base.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Base.php
+END
+Figlet.php
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Figlet.php
+END
+ReCaptcha.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/ReCaptcha.php
+END
+Word.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Word.php
+END
+Exception.php
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Exception.php
+END
+Adapter.php
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Adapter.php
+END
+Image.php
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Image.php
+END
+Dumb.php
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Captcha/Dumb.php
+END

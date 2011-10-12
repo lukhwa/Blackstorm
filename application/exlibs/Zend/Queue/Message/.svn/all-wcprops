@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Queue/Message
+END
+Iterator.php
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Queue/Message/Iterator.php
+END
+PlatformJob.php
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/black-storm/!svn/ver/2/trunk/application/exlibs/Zend/Queue/Message/PlatformJob.php
+END
